@@ -1,4 +1,4 @@
-#deauthr v0.0.1
+#deauthr v1.0.1
 import os
 import sys
 import time
