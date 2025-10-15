@@ -19,7 +19,8 @@ print(r"       __                                  __      __                   
       r"$$ \__$$ |$$$$$$$$/ /$$$$$$$ |$$ \__$$ |  $$ |/  |$$ |  $$ |        $$ |      "+"\n"
       r"$$    $$ |$$       |$$    $$ |$$    $$/   $$  $$/ $$ |  $$ |        $$ |      "+"\n"
       r" $$$$$$$/  $$$$$$$/  $$$$$$$/  $$$$$$/     $$$$/  $$/   $$/         $$/      version 0.0.1"+"\n"
-      "a dead simple wifi deauth tool\n")
+      r"a dead simple wifi deauth tool"+"\n"
+      "by WIL_FU_")
 #asks for required details
 wifi_interface = input("enter the name of your wifi interface (ie: wlan0): ")
 target_mac = input("enter the MAC address of your target: ")
